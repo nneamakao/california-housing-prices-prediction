@@ -1,7 +1,7 @@
 # california-housing-prices-prediction
 Prediction of house values in California using Regression model
 
-The dataset can be downloaded from [Kaggle]([https://www.kaggle.com/datasets/camnugent/california-housing-prices). 
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices). 
 It consists of ten columns as follows:
 1. longitude: A measure of how far west a house is; a higher value is farther west
 2. latitude: A measure of how far north a house is; a higher value is farther north
